@@ -65,6 +65,10 @@ public class VarastoTest {
         assertEquals(4, varasto.paljonkoMahtuu(), vertailuTarkkuus);
     }
 
+    /*
+     Added a comment to trigger jenkins!
+     */
+    
     @Test
     public void lisaaminenYlivuoto() {
 
